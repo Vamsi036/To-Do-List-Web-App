@@ -5,7 +5,7 @@ What I Did
 1) Created a structured HTML layout with:
   - An input field for entering tasks
   - An "Add Task" button
-  - A task list container using <ul> tag
+  - A task list container using ul tag
   - 
 2) Styled the app using basic CSS for readability and usability
 
